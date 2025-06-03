@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Repositories Explorer",
+  "description": "A React application to search GitHub users and explore their repositories. Users can search for up to 5 users and view their repositories on click.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
