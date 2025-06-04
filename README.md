@@ -16,11 +16,15 @@ A simple and intuitive GitHub repository explorer app built with React, Vite, Ta
  * Zustand: A small, fast, and scalable state-management solution.
 📦 Installation
  * Clone the repo:
-   git clone https://github.com/JessenReinhart/github-repositories-explorer.git
+
+```
+git clone https://github.com/JessenReinhart/github-repositories-explorer.git
+   
 cd github-repo-explorer
+```
 
  * Install dependencies:
-   npm install
+  ```npm install```
 
 🏃‍♀️ How to Run
 To start the development server:
