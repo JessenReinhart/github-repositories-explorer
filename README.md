@@ -1,12 +1,29 @@
-# React + Vite
+## GitHub Repo Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive GitHub repository explorer app built with React, Vite, Tailwind CSS, and Zustand. Search for GitHub users and then view their repositories in a convenient dropdown list.
 
-Currently, two official plugins are available:
+✨ Features
+ * User Search: Quickly find GitHub users by their username.
+ * Repository Listing: See a list of all public repositories for a selected user.
+ * Clean UI: A modern and responsive user interface thanks to Tailwind CSS.
+ * State Management: Efficient state management with Zustand.
+ * Fast Development: Powered by Vite for a lightning-fast development experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Technologies Used
+ * React: A JavaScript library for building user interfaces.
+ * Vite: A next-generation frontend tooling.
+ * Tailwind CSS: A utility-first CSS framework for rapid UI development.
+ * Zustand: A small, fast, and scalable state-management solution.
+📦 Installation
+ * Clone the repo:
+   git clone https://github.com/JessenReinhart/github-repositories-explorer.git
+cd github-repo-explorer
 
-## Expanding the ESLint configuration
+ * Install dependencies:
+   npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🏃‍♀️ How to Run
+To start the development server:
+npm run dev
+
+This will open the application in your browser, typically at http://localhost:5173.
